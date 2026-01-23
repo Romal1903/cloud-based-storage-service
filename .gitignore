@@ -1,0 +1,19 @@
+# node
+node_modules/
+dist/
+build/
+
+# java
+target/
+*.log
+
+# env
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+.env
+*.env
